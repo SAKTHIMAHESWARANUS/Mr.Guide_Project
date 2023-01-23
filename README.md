@@ -1,4 +1,4 @@
-## MR.GUIDE - Responsive Tourism Website
+## MR.GUIDE - Tourism Website
 
 ### About Project
 
