@@ -1,4 +1,4 @@
-## Turismo - Responsive Tourism Website
+## MR.GUIDE - Responsive Tourism Website
 
 ![](img/landing-page.png)
 
